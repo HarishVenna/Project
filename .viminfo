@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :x
-|2,0,1680854919,,"x"
+|2,0,1680855791,,"x"
 
 # Search String History (newest to oldest):
 
@@ -28,24 +28,72 @@
 |3,1,36,0,1,0,1680854901,"<"
 
 # File marks:
-'0  1  15  ~/index.html
-|4,48,1,15,1680854919,"~/index.html"
-'1  5  48  ~/Dockerfile
-|4,49,5,48,1680854875,"~/Dockerfile"
+'0  1  0  /var/lib/docker.sock
+|4,48,1,0,1680855791,"/var/lib/docker.sock"
+'1  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+|4,49,1,0,1680855571,"/var/lib/jenkins/secrets/initialAdminPassword"
+'2  1  15  ~/index.html
+|4,50,1,15,1680854919,"~/index.html"
+'3  5  48  ~/Dockerfile
+|4,51,5,48,1680854875,"~/Dockerfile"
 
 # Jumplist (newest first):
+-'  1  0  /var/lib/docker.sock
+|4,39,1,0,1680855791,"/var/lib/docker.sock"
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+|4,39,1,0,1680855571,"/var/lib/jenkins/secrets/initialAdminPassword"
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+|4,39,1,0,1680855571,"/var/lib/jenkins/secrets/initialAdminPassword"
+-'  1  15  ~/index.html
+|4,39,1,15,1680854919,"~/index.html"
+-'  1  15  ~/index.html
+|4,39,1,15,1680854919,"~/index.html"
+-'  1  15  ~/index.html
+|4,39,1,15,1680854919,"~/index.html"
 -'  1  15  ~/index.html
 |4,39,1,15,1680854919,"~/index.html"
 -'  5  48  ~/Dockerfile
 |4,39,5,48,1680854875,"~/Dockerfile"
 -'  5  48  ~/Dockerfile
 |4,39,5,48,1680854875,"~/Dockerfile"
+-'  5  48  ~/Dockerfile
+|4,39,5,48,1680854875,"~/Dockerfile"
+-'  5  48  ~/Dockerfile
+|4,39,5,48,1680854875,"~/Dockerfile"
+-'  5  48  ~/Dockerfile
+|4,39,5,48,1680854875,"~/Dockerfile"
+-'  5  48  ~/Dockerfile
+|4,39,5,48,1680854875,"~/Dockerfile"
+-'  5  48  ~/Dockerfile
+|4,39,5,48,1680854875,"~/Dockerfile"
+-'  5  48  ~/Dockerfile
+|4,39,5,48,1680854875,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1680854791,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1680854791,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1680854791,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1680854791,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1680854791,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1680854791,"~/Dockerfile"
 -'  1  0  ~/Dockerfile
 |4,39,1,0,1680854791,"~/Dockerfile"
 -'  1  0  ~/Dockerfile
 |4,39,1,0,1680854791,"~/Dockerfile"
 
 # History of marks within files (newest to oldest):
+
+> /var/lib/docker.sock
+	*	1680855791	0
+	"	1	0
+
+> /var/lib/jenkins/secrets/initialAdminPassword
+	*	1680855570	0
+	"	1	0
 
 > ~/index.html
 	*	1680854915	0
